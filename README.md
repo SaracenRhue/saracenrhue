@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Saracen Rhue</h1>
 <h3 align="center">webdevelopment, automation and server management</h3>
 
-- 🔭 I’m current workin on [unixTool](https://github.com/SaracenRhue/unixTool)
+### 🔭 I’m current workin on 
 
+* [unixTool](https://github.com/SaracenRhue/unixTool)
+<br>
+<hr>
+<br>
 - 📝 I regularly write articles on [https://saracenrhue.github.io/](https://saracenrhue.github.io/)
 
 - 📫 How to reach me **saracen-hue@protonmail.ch**
