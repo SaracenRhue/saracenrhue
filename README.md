@@ -5,16 +5,14 @@
 
 * [unixTool](https://github.com/SaracenRhue/unixTool)
 
+<br>
 
-<br>
-<hr>
-<br>
+<h3 align="left">Connect with me:</h3>
 
 - 📝 I regularly write articles on [https://saracenrhue.github.io/](https://saracenrhue.github.io/)
 
 - 📫 How to reach me **saracen-hue@protonmail.ch**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
