@@ -1,9 +1,13 @@
+<img align="center" src="https://github.com/SaracenRhue/saracenrhue.github.io/raw/main/logo.png" alt="saracenrhue" />
+<br>
 <h1 align="center">Hi 👋, I'm Saracen Rhue</h1>
 <h3 align="center">webdevelopment, automation and server management</h3>
 
 ### 🔭 I’m current workin on 
 
 * [unixTool](https://github.com/SaracenRhue/unixTool)
+* [projectGenerator](https://github.com/SaracenRhue/projectGenerator)
+* [myLibrary](https://github.com/SaracenRhue/myLibrary)
 
 <br>
 
