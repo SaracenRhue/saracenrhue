@@ -7,7 +7,6 @@
 * [projectGenerator](https://github.com/SaracenRhue/projectGenerator)
 * [myLibrary](https://github.com/SaracenRhue/myLibrary)
 
-<br>
 
 <h3 align="left">Connect with me:</h3>
 
