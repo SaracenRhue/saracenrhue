@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Saracen Rhue</h1>
 <h3 align="center">webdevelopment, automation and server management</h3>
 
-### 🔭 I’m current workin on 
+<h3 align="left">🔭 I’m current workin on</h3>
 
 * [unixTool](https://github.com/SaracenRhue/unixTool)
 * [projectGenerator](https://github.com/SaracenRhue/projectGenerator)
