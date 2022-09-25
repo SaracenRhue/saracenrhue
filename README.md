@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://saracenrhue.github.io/](https://saracenrhue.github.io/)
 
-- 📫 How to reach me **mail@saracen-rhue.ch*
+- 📫 How to reach me **mail@saracen-rhue.ch**
 
 <br>
 
