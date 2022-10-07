@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mail@saracenrhue.ch**
 
-[wakatime](https://wakatime.com/@Saracen)
+- [wakatime](https://wakatime.com/@Saracen)
 
 <br>
 
