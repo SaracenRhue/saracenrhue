@@ -3,7 +3,7 @@
 
 <h3 align="left">🔭 I’m current workin on</h3>
 
-* [unixTool](https://github.com/SaracenRhue/unixTool)
+* [setupTool](https://github.com/SaracenRhue/setupTool)
 * [projectGenerator](https://github.com/SaracenRhue/projectGenerator)
 * [myLibrary](https://github.com/SaracenRhue/myLibrary)
 
