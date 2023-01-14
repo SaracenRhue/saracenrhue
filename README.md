@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saracen Rhue</h1>
 <h3 align="center">webdevelopment, automation and server management</h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <h3 align="left">🔭 I’m current workin on</h3>
 
 * [setupTool](https://github.com/SaracenRhue/setupTool)
