@@ -14,11 +14,7 @@
 
 - 📫 How to reach me **mail@saracenrhue.ch**
 
-- [wakatime](https://wakatime.com/@Saracen)
-
-<br>
-
-[![wakatime](https://wakatime.com/badge/user/b8da5fd7-f82d-4571-a8bb-261b1583a883.svg)](https://wakatime.com/@b8da5fd7-f82d-4571-a8bb-261b1583a883)
+- [![wakatime](https://wakatime.com/badge/user/b8da5fd7-f82d-4571-a8bb-261b1583a883.svg)](https://wakatime.com/@b8da5fd7-f82d-4571-a8bb-261b1583a883)
 
 <br>
 
