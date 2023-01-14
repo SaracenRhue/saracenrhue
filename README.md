@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saracen Rhue</h1>
 <h3 align="center">webdevelopment, automation and server management</h3>
 
-[![Saracen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saracenrhue)](https://github.com/saracenrhue/github-readme-stats)
+[![Saracen's GitHub stats](https://github-readme-stats.vercel.app/api?username=saracenrhue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
